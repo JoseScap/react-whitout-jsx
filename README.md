@@ -50,7 +50,7 @@ The project structure is organized as follows:
 │   │   ├── Form.js
 │   │   ├── Input.js
 │   │   ├── List.js
-│   │   ├── ListItem.js
+│   │   └── ListItem.js
 │   ├── App.js
 │   └── main.js
 └── ...
